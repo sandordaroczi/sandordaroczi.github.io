@@ -1,2 +1,3 @@
-# personal_website
+# sandordaroczi.github.io
+
 My personal website.
