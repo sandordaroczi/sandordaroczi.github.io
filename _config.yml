@@ -49,8 +49,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "daroczisandor00@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: "https://github.com/sandordaroczi/"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  github: "sandordaroczi"
   linkedin: "https://www.linkedin.com/in/sandor-daroczi/"
 #  medium: yourname
 #  reddit: yourname
