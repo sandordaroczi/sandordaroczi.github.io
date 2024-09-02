@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About me
+title: Sándor Daróczi
 subtitle: Mathematics Master's Student with a Passion for AI and Machine Learning
 ---
-
-# Sándor Daróczi - Personal Website
 
 👋 Hello! I'm Sándor, a Mathematics master's student at the Technical University of Munich.
 
