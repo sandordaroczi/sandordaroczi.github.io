@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Sándor Daróczi
 subtitle: Mathematics Master's Student with a Passion for AI and Machine Learning
 ---
