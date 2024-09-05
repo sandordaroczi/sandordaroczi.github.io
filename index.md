@@ -40,12 +40,16 @@ subtitle: Mathematics Master's Student with a Passion for AI and Machine Learnin
 
 ### 📚 Education
 🎓 **2021 - 2025** | MSc Mathematics in Operations Research | Technical University of Munich
+
 🎓 **2018 - 2021** | BSc Mathematics | Eötvös Loránd University, Budapest
 
 ### 💼 Work Experience
 🔬 **Sep 2024 - Present** | Master Thesis Student | Pruna AI & Technical University of Munich
+
 💻 **Feb 2024 - Present** | Working Student - Machine Learning Engineer | Rohde & Schwarz GmbH & Co. KG.
+
 📊 **Oct 2022 - Mar 2023** | Working Student - Data Science | Lidl Stiftung & Co. KG
+
 🧪 **Apr 2022 - Sep 2022** | Intern - Data Science | Spryfox GmbH
 
 ## Beyond Work
