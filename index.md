@@ -41,10 +41,10 @@ subtitle: Mathematics Master's Student with a Passion for AI and Machine Learnin
 ### 📚 Education
 
 - **MSc Mathematics in Operations Research** | Technical University of Munich
-  - 2021 - 2025
+  - Oct 2021 - Mar 2025
 
 - **BSc Mathematics** | Eötvös Loránd University, Budapest
-  - 2018 - 2021
+  - Sep 2018 - Jun 2021
 
 ### 💼 Work Experience
 
