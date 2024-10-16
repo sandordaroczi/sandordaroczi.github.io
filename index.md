@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Sándor Daróczi
-subtitle: Mathematics Master's Student with a Passion for AI and Machine Learning
+subtitle: Mathematics Master's Student passionate about Software Engineering, AI, and Machine Learning
 ---
 
 👋 Hello! I'm Sándor, a Mathematics master's student at the Technical University of Munich.
@@ -10,31 +10,36 @@ subtitle: Mathematics Master's Student with a Passion for AI and Machine Learnin
 
 ## Interests and Expertise
 
-💻 I'm passionate about developing cutting-edge AI technologies, with a particular interest in:
+💻 I'm passionate about developing innovative software solutions and cutting-edge AI technologies, with interests in:
 
+- Application development and scalable software architectures
 - Large Language Models (LLMs)
 - Efficient ML architectures
 - Large-scale data analytics for data-driven decision making
-- AI model interpretability and reliability
 
 ## Technical Skills
 
-🛠️ Experienced with: Python, PyTorch, Transformers, pandas, R, SQL, Git, Databricks, Tableau
+🛠️ Experienced with:
+
+- Languages: Python, Java, SQL, R
+- Frameworks/Libraries: PyTorch, Transformers, pandas
+- Tools: Git, Docker, AWS, Databricks, Tableau
+- Practices: Agile methodologies, CI/CD, Test-Driven Development
 
 ## Professional Goals
 
-- Develop innovative ML solutions for industry challenges
+- Develop robust, scalable software solutions for complex problems
 - Bridge the gap between theoretical ML and practical applications
-- Push the boundaries of AI through innovative research
+- Contribute to innovative projects that leverage both traditional software development and AI/ML technologies
 
 ## Current Focus
 
 🌱 Currently, I'm diving deep into:
 
 - Developing and optimizing LLMs
-- Researching AI interpretability and reliability
 - Exploring AI model compression and quantization techniques
 - Implementing deep learning methods for applications in Spectrum Monitoring
+- Microservices architecture and cloud-native applications
 
 ## My Journey
 
