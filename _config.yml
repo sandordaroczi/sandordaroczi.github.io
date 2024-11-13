@@ -40,6 +40,9 @@ avatar: "/assets/img/profile_pic.jpg"
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
+site-css:
+  - "/assets/css/custom-styles.css"
+
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
