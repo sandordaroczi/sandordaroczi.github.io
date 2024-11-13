@@ -20,6 +20,7 @@ author: Sándor Daróczi
 ###############################################
 
 navbar-links:
+  Gameplay: "gameplay"    # Add this line
   CV: "/assets/pdf/CV_Sándor_Daróczi.pdf"
   Experiences:
     - TU Munich (Thesis): "https://www.cs.cit.tum.de/daml/forschung/efficient-ml/"
